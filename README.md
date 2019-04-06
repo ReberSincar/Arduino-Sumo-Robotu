@@ -1,18 +1,8 @@
 # Arduino-Sumo-Robotu
-C dili ile geliştirilmiş Sumo Robotu Arduino Projesi 
+
 ![1](https://user-images.githubusercontent.com/36922746/55672079-70fa3180-589f-11e9-8b03-3ba764ccacdf.png)
 
 
-T.C.
-FIRAT ÜNİVERSİTESİ
-TEKNOLOJİ FAKÜLTESİ
-YAZILIM MÜHENDİSLİĞİ BÖLÜMÜ
-  
-YMH325 – MİKROİŞLEMCİLER VE PROGRAMLAMA 
-Ders Proje Dokümantasyonu
-Arduiono ile Sumo Robotu Yapımı
-
-15542501 - REBER SİNCAR
 
 Aralık – 2018 
 Projenin Amacı
